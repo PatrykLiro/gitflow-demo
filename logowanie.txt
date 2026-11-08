@@ -1,2 +1,3 @@
 Formularz logowania
 Walidacja hasla
+Blokda konta po 5 blednych haslach
